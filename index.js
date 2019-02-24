@@ -371,6 +371,8 @@ var bad_words=[
 "kinky",
 "kkk",
 "klan",
+"kneegar",
+"kneeger",
 "knobend",
 "kooch",
 "kooches",
